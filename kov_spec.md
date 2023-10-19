@@ -1,0 +1,3 @@
+# Követelmány specifikáció
+## Áttekintés
+
