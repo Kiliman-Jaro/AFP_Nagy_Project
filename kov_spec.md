@@ -28,3 +28,9 @@ Mobilbarát felület:Reszponzív design biztosítása a könnyű hozzáféréshe
 Adatbiztonság és adatvédelem:Biztosítani az adatvédelmet és adatbiztonságot a felhasználók személyes adatainak védelme érdekében.
 Ezek a funkcionális követelmények az ételrendelős weboldalhoz hozzájárulnak a felhasználóbarát és hatékony élményhez mind a felhasználók, mind az étterem tulajdonosok számára.
 ## Jelenlegi üzleti folyamatok
+Manapság sok ételrendelős oldal van, amelyek igyekeznek minden típusú felhasználót megszólítani, azonban sokan közülük nem tudják megfelelően kiszolgálni azokat, akik specifikus elvárásokkal rendelkeznek az online ételrendeléssel kapcsolatban. Célunk azon ügyfelek kiszolgálása, akik egy olyan ételrendelő platformot keresnek, ahol:
+Korlátok nélkül böngészhetnek az étlapon: Nem korlátozzuk az ételválasztást, így széles választék áll rendelkezésre, hogy mindenki megtalálja az ízlésének megfelelő fogást.
+Korlátok nélkül rendelhetnek: Nem szabunk meg minimális vagy maximális rendelési összeget, így a felhasználók szabadon választhatnak és rendelhetnek az ételrendelés során.
+Egyszerű és felhasználóbarát felületen navigálhatnak: Az oldalunk letisztult felületet kínál, hogy könnyedén böngészhessék az étlapot, választhassanak és rendelést adhassanak le, minimalizálva ezzel a felhasználói élményt akadályozó tényezőket.
+Célunk az, hogy olyan ételrendelő platformot biztosítsunk, ami rugalmasságot és egyszerűséget kínál a felhasználóinknak, lehetővé téve számukra, hogy szabadon és könnyedén választhassanak az étlapról, rendeléseket adjanak le, mindezt a lehető legegyszerűbben és zökkenőmentesen.
+Ezen célkitűzések mentén egy ételrendelő weboldal megfelelően szem előtt tartaná a felhasználói igényeket, kiküszöbölve a felesleges korlátozásokat és biztosítva a széles választékot és felhasználóbarát felületet az ételrendeléshez.
