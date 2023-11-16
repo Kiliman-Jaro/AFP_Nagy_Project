@@ -18,7 +18,7 @@ A célunk, hogy egy olyan ételrendelő platformot biztosítsunk, ahol az embere
 #### Részletes Ételprofilok:
 - A felhasználóknak lehetőségük van részletes információk megtekintésére, beleértve az étel nevét, leírását, árát, összetevőket, valamint esetleg allergéneket vagy egyéb fontos tudnivalókat.
 #### Kosár Szerkesztése:
--Rugalmas szerkesztési lehetőség a kosárban található tételekkel, mint például mennyiség módosítása, étel eltávolítása vagy új ételek hozzáadása.
+- Rugalmas szerkesztési lehetőség a kosárban található tételekkel, mint például mennyiség módosítása, étel eltávolítása vagy új ételek hozzáadása.
 #### Kényelmes Felhasználói Élmény:
 - A rendszer kialakítása egyszerű és felhasználóbarát, támogatva a zavartalan és gördülékeny rendelési folyamatot.
 #### Átlátható Weboldal:
