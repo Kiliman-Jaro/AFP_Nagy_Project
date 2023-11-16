@@ -43,3 +43,16 @@ A weboldalunk egy étlapot kínál, amely lehetővé teszi a felhasználók szá
 ## Funkcionális követelmények
 
 ##  Ígényelt üzleti folyamatok modellje
+- Koncepció és tervezés: Az ételkülönlegességek és italok kiválasztása, az ételkategóriák meghatározása, az árképzés, az aktuális trendek és piackutatás figyelembevétele az új étlap létrehozása vagy a meglévő frissítése során.
+
+- Alapanyagok és receptek összegyűjtése: Beszerzési források az alapanyagokhoz, azok minőségének és frissességének ellenőrzése. A receptek kidolgozása vagy meglévő receptek átdolgozása az új ételek vagy italok számára.
+
+- Kóstoló és tesztelés: Az új ételek vagy italok elkészítése és tesztelése, esetleges módosítások végrehajtása a recepteken vagy az elkészítési folyamatban.
+
+- Képzés és kommunikáció a személyzettel: Az új ételek vagy italok bemutatása a személyzetnek, részletes ismertetők és kóstolók szervezése a megfelelő kiszolgálás érdekében.
+
+- Marketing és promóció: Az új ételek vagy italok népszerűsítése a vendégek felé, lehet online marketing, promóciós ajánlatok vagy akár speciális események szervezése az új étlap bevezetése kapcsán.
+
+- Étlap frissítése és karbantartás: Rendszeres frissítések vagy szezonális változtatások végrehajtása az étlapon, új ételek vagy italok hozzáadása vagy eltávolítása az aktuális igények alapján.
+
+- Visszajelzések és értékelés: Vendégvisszajelzések gyűjtése az új ételek vagy italok kapcsán, azok értékelése és szükség esetén a módosítások végrehajtása a jobb vevői elégedettség érdekében.
