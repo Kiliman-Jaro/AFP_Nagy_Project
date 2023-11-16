@@ -8,7 +8,7 @@ Regisztrált felhasználók kiegészítő lehetőségei: Azoknak, akik regisztr�
 Elegáns és csábító design: Az oldalunk modern, vonzó és élénk designnal rendelkezik, hogy az ételrendelés élményét még vonzóbbá és élvezetesebbé tegye.
 A célunk, hogy egy olyan ételrendelő platformot biztosítsunk, ahol az emberek könnyedén és gyorsan rendelhetnek ételt, ugyanakkor azoknak, akik aktívan részt vesznek az oldalon, lehetőségük van hozzájárulni a közösség tudásához és az ételválaszték bővítéséhez, mindezt egy csábító és modern felületen keresztül.
 ##  Jelenlegi helyzet
-
+A weboldalunk egy étlapot kínál, amely lehetővé teszi a felhasználók számára, hogy könnyedén megrendeljék a kiválaszott ételüket. A weboldal célja hogy a felhasználók egy könnyen átlátható és navigálható weboldalon megtekintsék az összes lehető ételt az étlapról beleértve az árukat és hozzávalókat. Segít a felhasználóknak könnyen megrendelni a kiválaszott ételeket. Weboldalunk egy gyors és átlátható étlapot kínál ahol gyorsan meg lehet rendelni a kiválaszott ételeket. A kiemelkedő jelentősége abban rejlik, hogy a felhasználók képesek gyorsan és egyszerűen rendelni. A weboldalunk arra összpontosít, hogy a felhasználóknak egy egyszerű és hatékony eszközt kínáljon az ételek megrendelésére, így hagyva időt és energiát más fontos tevékenységekre. Az egyszerűséget és az átláthatóságot helyezzük előtérbe, hogy a felhasználók ne veszítsenek el felesleges időt bonyolult beállításokkal és funkciókkal való küzdelemben.
 ## 3. Követelménylista
 - Étlap homepage
 - Ételek ára
