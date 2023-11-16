@@ -40,8 +40,6 @@ A weboldalunk egy étlapot kínál, amely lehetővé teszi a felhasználók szá
 - A weboldal egyszerűsége, átláthatósága
 - A fehasználó támogatása
 
-## Funkcionális követelmények
-
 ##  Ígényelt üzleti folyamatok modellje
 - Koncepció és tervezés: Az ételkülönlegességek és italok kiválasztása, az ételkategóriák meghatározása, az árképzés, az aktuális trendek és piackutatás figyelembevétele az új étlap létrehozása vagy a meglévő frissítése során.
 
