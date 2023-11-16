@@ -13,7 +13,7 @@ A célunk, hogy egy olyan ételrendelő platformot biztosítsunk, ahol az embere
 - Felhasználók számára lehetőség nyílik az étlapon történő böngészésre és az ízlésüknek megfelelő ételek kiválasztására.
 #### Részletes Ételprofilok:
 - Minden étel rendelkezik részletes profilokkal, melyek tartalmazzák az étel nevét, leírását, árát, összetevőket, valamint fontos információkat, például allergéneket.
-### Kosárba Helyezés:
+#### Kosárba Helyezés:
 - Felhasználóknak lehetőségük van a kiválasztott ételeik kosárba helyezésére, könnyen és intuitív módon.
 #### Részletes Ételprofilok:
 - A felhasználóknak lehetőségük van részletes információk megtekintésére, beleértve az étel nevét, leírását, árát, összetevőket, valamint esetleg allergéneket vagy egyéb fontos tudnivalókat.
