@@ -34,3 +34,8 @@ Korlátok nélkül rendelhetnek: Nem szabunk meg minimális vagy maximális rend
 Egyszerű és felhasználóbarát felületen navigálhatnak: Az oldalunk letisztult felületet kínál, hogy könnyedén böngészhessék az étlapot, választhassanak és rendelést adhassanak le, minimalizálva ezzel a felhasználói élményt akadályozó tényezőket.
 Célunk az, hogy olyan ételrendelő platformot biztosítsunk, ami rugalmasságot és egyszerűséget kínál a felhasználóinknak, lehetővé téve számukra, hogy szabadon és könnyedén választhassanak az étlapról, rendeléseket adjanak le, mindezt a lehető legegyszerűbben és zökkenőmentesen.
 Ezen célkitűzések mentén egy ételrendelő weboldal megfelelően szem előtt tartaná a felhasználói igényeket, kiküszöbölve a felesleges korlátozásokat és biztosítva a széles választékot és felhasználóbarát felületet az ételrendeléshez.
+- Könnyen elérhető étlapok és minden napra javasolt étel választások
+- Weboldalon könnyen megrendelhetjük a kiválasztott ételünket és házhoz is szállíthatják
+- Elérhetőségünket megtalálható a weboldalon, ha bármi gond lenne a kiválasztott étellel
+- Tájékoztatjuk a weboldalon, hogy mit hol találnak meg
+
