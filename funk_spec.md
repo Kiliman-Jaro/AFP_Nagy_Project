@@ -9,7 +9,7 @@ Elegáns és csábító design: Az oldalunk modern, vonzó és élénk designnal
 A célunk, hogy egy olyan ételrendelő platformot biztosítsunk, ahol az emberek könnyedén és gyorsan rendelhetnek ételt, ugyanakkor azoknak, akik aktívan részt vesznek az oldalon, lehetőségük van hozzájárulni a közösség tudásához és az ételválaszték bővítéséhez, mindezt egy csábító és modern felületen keresztül.
 
 ## Áttekintés
-####Ételek Böngészése:
+#### Ételek Böngészése:
 - Felhasználók számára lehetőség nyílik az étlapon történő böngészésre és az ízlésüknek megfelelő ételek kiválasztására.
 #### Részletes Ételprofilok:
 - Minden étel rendelkezik részletes profilokkal, melyek tartalmazzák az étel nevét, leírását, árát, összetevőket, valamint fontos információkat, például allergéneket.
