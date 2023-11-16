@@ -12,5 +12,16 @@ A weboldalunk egy étlapot kínál, amely lehetővé teszi a felhasználók szá
 ## Vágyálom rendszer
 
 ## Funkcionális követelmények
-
+Ételrendelés funkció:Ételek kiválasztása az étlapról és kosárba helyezése.
+Kosár kezelése, beleértve az étel módosítását, eltávolítását vagy új elem hozzáadását.
+Fizetési rendszer:Különböző fizetési lehetőségek biztosítása (bankkártya, PayPal, készpénz a kiszállításkor stb.).
+Biztonságos fizetési átjáró használata a tranzakciókhoz.
+Rendeléskezelés és státuszok:Rendelés állapotának nyomon követése (folyamatban lévő, elkészítve, szállítás alatt stb.).
+Értesítések küldése a rendelés státuszáról a felhasználóknak.
+Értékelés és visszajelzés:Felhasználók értékelése és véleménye az étteremről vagy rendelt ételekről.
+Értékelések megjelenítése az étterem profilján.
+Adminisztrációs felület:Étterem tulajdonosoknak lehetőség az étlap kezelésére, rendelések elfogadására vagy elutasítására.
+Mobilbarát felület:Reszponzív design biztosítása a könnyű hozzáféréshez mobil eszközökről.
+Adatbiztonság és adatvédelem:Biztosítani az adatvédelmet és adatbiztonságot a felhasználók személyes adatainak védelme érdekében.
+Ezek a funkcionális követelmények az ételrendelős weboldalhoz hozzájárulnak a felhasználóbarát és hatékony élményhez mind a felhasználók, mind az étterem tulajdonosok számára.
 ## Jelenlegi üzleti folyamatok
