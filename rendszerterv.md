@@ -14,12 +14,12 @@ Célkitűzések meghatározása: Részletesen megfogalmazott célok, amelyek az 
 Projektcsapat összeállítása: Részvétel szakemberekkel (fejlesztők, dizájnerek, projektmenedzserek stb.).
 Részletes követelmények meghatározása: Funkcionális és nem-funkcionális követelmények összegyűjtése.
 2. Tervezési fázis
-Felhasználói felület tervezése: Dizájn, felhasználói élmény (UI/UX) tervezése.
+Felhasználói felület tervezése: Dizájn, felhasználói élmény tervezése.
 Funkcionális tervezés: Részletes funkcionális specifikációk elkészítése.
 Adatmodell kialakítása: Az adatbázis struktúrájának tervezése az ételrendelési folyamat támogatására.
 3. Fejlesztési fázis
 Frontend fejlesztés: Az oldal felhasználói felületének kialakítása HTML, CSS, JavaScript stb. segítségével.
-Backend fejlesztés: Az üzleti logika és az adatkezelés fejlesztése különböző programozási nyelvekkel (pl. Python, Node.js, stb.) és keretrendszerekkel (pl. Django, Flask, Express stb.).
+Backend fejlesztés: Az üzleti logika és az adatkezelés fejlesztése különböző programozási nyelvekkel (pl. Python, Node.js, stb.) és keretrendszerekkel.
 Adatbázis implementációja: Az adatbázis struktúrájának kialakítása és az adatbázis beállítása.
 4. Tesztelési fázis
 Egységtesztelés: A kód egyes részeinek és funkcióinak tesztelése.
