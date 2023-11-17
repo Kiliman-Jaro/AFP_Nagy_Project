@@ -35,5 +35,28 @@ Karbantartás és frissítések: Rendszeres karbantartás, hibajavítások, fris
 ## Követelmények
 
 ## Funkcionális terv
+**Felhasználói Regisztráció és Belépés:**
+Felhasználók regisztrálhatnak egy fiókot az oldalon, vagy beléphetnek már meglévő fiókjukkal.
+Regisztrált felhasználók számára elérhetővé válnak a kiegészítő funkciók (ajánlatok megosztása, receptek feltöltése).
+
+**Ételböngészés és Kiválasztás:**
+A felhasználók könnyedén böngészhetik az étlapot, szűrhetik és kereshetik az ételeket.
+Minden ételnek részletes profilja legyen elérhető, beleértve nevet, leírást, árat, összetevőket és allergén információkat.
+
+**Kosár Kezelése:**
+Felhasználóknak lehetőségük van ételek kosárba helyezésére.
+Rugalmas szerkesztési lehetőségek a kosárban, beleértve mennyiség módosítását, étel eltávolítását vagy új ételek hozzáadását.
+
+**Rendelési Folyamat:**
+Egyszerű rendelési folyamat biztosítása, beleértve a kosár tartalmának ellenőrzését és módosítását.
+Rendelés véglegesítése és megerősítése a felhasználónak.
+
+**Étterem Adatok és Kínálat:**
+Étterem számára lehetőség az étlap, ételek, árak és speciális ajánlatok online frissítésére.
+Az étterem számára admin felület a rendelések kezelésére és feldolgozására.
+
+**Felhasználói Élmény és Design:**
+Modern, vonzó és felhasználóbarát design biztosítása az oldal számára.
+Az oldal egyszerű és intiutív navigációval rendelkezzen a felhasználók kényelméért.
 
 ## Fizikai környezet
