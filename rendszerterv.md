@@ -60,3 +60,15 @@ Modern, vonzó és felhasználóbarát design biztosítása az oldal számára.
 Az oldal egyszerű és intiutív navigációval rendelkezzen a felhasználók kényelméért.
 
 ## Fizikai környezet
+
+
+Az ételrendelős weboldal működéséhez és üzemeltetéséhez szükséges fizikai környezet különböző elemekből állhat:
+
+1. Szerverpark és adatközpont:
+
+A weboldal működtetéséhez szerverekre van szükség, amelyek tárolják az adatbázist és kezelik a weboldal funkcionalitását.
+Adatközpontok lehetnek különféle helyeken, ahol a szerverek futnak, az adatok tárolódnak és a weboldal számára biztosított hálózati kapcsolatok vannak.
+Az új funkciók és frissítések fejlesztéséhez szükséges fejlesztői környezet, amely lehetőséget biztosít a weboldal kódjának és funkcionalitásának tesztelésére.
+Az üzemeltetéshez szükséges eszközök és rendszerek, amelyek segítik a weboldal folyamatos működését és karbantartását.
+Ügyfélszolgálati és támogató rendszerek:Az ügyfélszolgálati tevékenységek támogatása érdekében szükség lehet call center-re vagy online üzenetküldő platformokra, ahol az ügyfelek kérdéseire és problémáira válaszolnak.Fontos része a fizikai környezetnek a rendszeres adatmentés és visszaállítás lehetősége, ami biztosítja az adatvesztés minimalizálását és az üzemképesség fenntartását esetleges katasztrófák vagy hibák esetén.Ezek az elemek alkotják az ételrendelős weboldalunk fizikai környezetét, amelyek az online platform működését és biztonságát biztosítják a felhasználók számára. Fontos, hogy ezek a rendszerek megfeleljenek az adatvédelmi és biztonsági előírásoknak annak érdekében, hogy a felhasználók adatai védettek legyenek és a weboldal zavartalanul működjön.
+
