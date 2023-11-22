@@ -31,6 +31,36 @@ Felhasználók oktatása: Szükség esetén oktatás vagy támogatás biztosít�
 Karbantartás és frissítések: Rendszeres karbantartás, hibajavítások, frissítések és fejlesztések végrehajtása az oldal stabil működése és fejlődése érdekében.
 
 ## Üzleti folyamatok modellje
+Kosárba helyezés és rendelés összeállítása:
+Folyamat: A felhasználók kiválasztják a kívánt ételeket és azokat a kosárba helyezik a rendelés összeállítása érdekében.
+Funkcionalitások:
+Ételek kosárba helyezése, módosítása (mennyiség, törlés).
+Kosár tartalmának megtekintése és rendelés véglegesítése.
+
+Rendelés leadása és fizetés:
+Folyamat: A felhasználók megadják a szállítási címet, fizetési információkat és leadják a rendelést.
+Funkcionalitások:
+Szállítási cím megadása, kívánt időpont kiválasztása.
+Fizetési módok választása és fizetés (bankkártya, online fizetés, készpénz stb.).
+
+Rendelés feldolgozása és kiszállítás/elvétel:
+Folyamat: Az étterem kapja a rendelést, feldolgozza és kiszállítja a megfelelő címre vagy az ügyfél átveszi az étteremben.
+Funkcionalitások:
+Étterem számára rendelés visszaigazolása, készítés és csomagolás.
+Futárszolgálat intézése a kiszállításhoz, vagy értesítés az elvételre.
+
+Rendelés státuszának nyomon követése és visszaigazolás:
+Folyamat: A felhasználók nyomon követik a rendelés állapotát és kapnak értesítést a kiszállítás/elvétel időpontjáról.
+Funkcionalitások:
+Rendelés állapotának nyomon követése a weboldalon vagy mobilalkalmazáson keresztül.
+Automatikus értesítések a rendelés státuszáról (folyamatban, kiszállítás alatt stb.).
+
+Értékelés és visszajelzés:
+Folyamat: A felhasználók lehetőséget kapnak az étterem, az ételek vagy a szolgáltatás értékelésére és vélemény megosztására.
+Funkcionalitások:
+Értékelés és vélemény megosztása az étteremről vagy az ételekről.
+Rendszeres visszajelzéskezelés és felhasználói értékelések kezelése.
+Ezek a folyamatok és funkciók egy ételrendelős weboldal rendszertervi üzleti folyamatait képviselik, amelyeket az adott weboldal fejlesztése során implementálni lehet a felhasználói élmény javítása és a hatékony rendelési folyamat biztosítása érdekében.
 
 ## Követelmények
 
