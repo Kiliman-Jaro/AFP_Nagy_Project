@@ -2,6 +2,7 @@ import express from "express"
 import bodyParser from "body-parser"
 import cors from "cors"
 import db from "./db.js"
+import RegisterRoute from "./routes/register.js"
 
 
 const app = express()
@@ -9,5 +10,7 @@ const app = express()
 app.use(cors({ origin: true, credentials: true }))
 app.use(express.json())
 app.use(bodyParser.urlencoded({ extended: false }))
+
+app.use("/register", RegisterRoute);
 
 app.listen(5000, () => console.log(`Server started on port: 5000`))
