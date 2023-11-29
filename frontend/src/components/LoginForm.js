@@ -9,7 +9,6 @@ const LoginForm = () => {
             alert("Minden mezőt ki kell tölteni!");
             return;
         }
-        onLogin({username, password});
     };
 
     return (

@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 
-const RegisterForm = ({onRegister}) => {
+const RegisterForm = () => {
     const [username, setUsername] = useState("");
     const [password, setPassword] = useState("");   
     const [email, setEmail] = useState("");
@@ -10,7 +10,6 @@ const RegisterForm = ({onRegister}) => {
             alert("Minden mező kitöltése kötelező!");
             return;
         }
-        onRegister(username, password, email);
     };
     return (
         <div>
