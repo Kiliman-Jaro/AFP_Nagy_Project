@@ -17,7 +17,7 @@ router.post("/", (req, res) => {
             return res.status(500).json({message: "Hiba a bejelentkezés során"});
         }
         if(result.length > 0){
-            return res.status(200).json({message: "Sikeres bejelentkezés"});
+            return res.status(200).json({message: "Sikeres bejelentkezés", username: username});
         }else{
             return res.status(401).json({message: "Hibás felhasználónév vagy jelszó"});
         }
