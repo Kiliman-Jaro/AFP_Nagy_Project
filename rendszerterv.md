@@ -64,6 +64,8 @@ Ezek a folyamatok és funkciók egy ételrendelős weboldal rendszertervi üzlet
 
 ## Követelmények
 
+A weboldal létrehozásához HTML/CSS illetve JavaScriptet és PHP-t használtunk. A felépítés és dizájnolás HTML és CSS implementálásával történik. Az oldal teljes értékű felhasználására elegendő egy egyszerű internetes böngészőt indítanunk. A keretrendszer amit használunk a projekthez a Node.js
+
 ## Funkcionális terv
 **Felhasználói Regisztráció és Belépés:**
 Felhasználók regisztrálhatnak egy fiókot az oldalon, vagy beléphetnek már meglévő fiókjukkal.
