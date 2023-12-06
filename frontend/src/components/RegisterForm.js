@@ -1,15 +1,33 @@
 import React, {useState} from "react";
+import axios from "axios";
+import{useNavigate} from "react-router-dom";
 
 const RegisterForm = () => {
     const [username, setUsername] = useState("");
     const [password, setPassword] = useState("");   
     const [email, setEmail] = useState("");
-
+    const navigate = useNavigate();
+    
     const handleRegister = () => {
         if(!username || !password || !email) {
             alert("Minden mező kitöltése kötelező!");
             return;
         }
+        axios.post("http://localhost:5000/register", {
+            username: username,
+            password: password,
+            email: email,
+        }).then((response) => {
+            if(response.status === 200) {
+                navigate("/login");
+            }
+            else{
+                alert("Sikerestelen regisztráció");
+                setUsername("");
+                setPassword("");
+                setEmail("");
+            }
+        });
     };
     return (
         <div>
