@@ -117,4 +117,6 @@ kapcsolódnak rá a kliensek.
 
 ## Implementációs terv
 
+A webes felület főként HTML, CSS és JavaScript nyelven épül fel, és az ezekhez tartozó kódrészleteket külön fájlokba szervezzük. Ezt azért tesszük, hogy jobban átlátható legyen a struktúra, könnyebben lehessen módosítani és könnyebben bővíthető legyen. Emellett a felület képes lesz kommunikálni a backend részen futó REST szolgáltatásokkal, így lehetőség lesz adatok felvitelére és lekérésére az adatbázisból. A felhasználói élményt tovább fokozzuk azzal, hogy az eltelt időt a kliens oldalon számoljuk a feladatoknál, így minimalizálva az esetleges időeltéréseket.
+
 ## Karbantartási terv
