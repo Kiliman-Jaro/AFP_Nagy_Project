@@ -106,6 +106,8 @@ Az üzemeltetéshez szükséges eszközök és rendszerek, amelyek segítik a we
 
 ## Adatbázis terv
 
+![My Image](adat.png)
+
 ## Tesztterv
 
 ### Tesztelési eljárások
