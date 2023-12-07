@@ -133,3 +133,32 @@ body {
     border-radius: 20%;
     color:#F5E2C8;;
   }
+
+  button {
+    box-shadow:inset 0px -1px 15px 3px #ff5722;
+    background:linear-gradient(to bottom, #ff5722 5%, #000000 100%);
+    background-color:#ffffff;
+    border-radius:17px;
+    border:2px solid #000000;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    padding:10px 20px;
+    text-decoration:none;
+    text-shadow:0px 0px 0px #ff5722;
+  }
+  
+  input{
+    padding: 5px;
+     font-size: 16px;
+     border-width: 1px;
+     border-color: #CCCCCC;
+     background-color: #b2b2b2;
+     color: #000000;
+     border-style: solid;
+     border-radius: 15px;
+     box-shadow: 0px 0px 7px rgba(66,66,66,.75);
+     text-shadow: 0px 0px 5px rgba(98, 97, 97, 0.773);
+  }
