@@ -87,3 +87,49 @@ body {
     align-items: center;
     justify-content: space-between;
   }
+
+  #letakarbereg{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    z-index: 900;
+    background-color: rgba(39, 39, 39, 0.767);
+    display:none;
+    text-align: center;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  #letakarbelogin{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    z-index: 900;
+    background-color: rgba(39, 39, 39, 0.767);
+    display:none;
+    text-align: center;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
+  
+  .ablak{
+    z-index: 902;
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+    background-color: #202020;
+    height: 500px;
+    min-width: 420px;
+    border-radius: 20%;
+    color:#F5E2C8;;
+  }
