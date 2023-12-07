@@ -108,6 +108,10 @@ Az üzemeltetéshez szükséges eszközök és rendszerek, amelyek segítik a we
 
 ## Tesztterv
 
+Tesztelési eljárások
+Unit teszt:
+A fejlesztés során fontos, hogy minél korábban kezdjünk el tesztelni annyira, amennyire csak lehetséges. Ennek érdekében minden egyes metódushoz egységteszteket kell írnunk annak érdekében, hogy biztosítsuk megfelelő működésüket. Az egységtesztek segítenek abban, hogy minél több kódot ellenőrizzünk és lefedjünk, ezzel növelve a kód megbízhatóságát. A metódusok akkor tekinthetők készen állónak, amikor az őket tesztelő tesztesetek hibamentesen lefutnak, így biztosítva a funkcionalitás stabilitását.
+
 ## Telepítési terv
 
 A szoftver webes felületéhez csak egy ajánlott böngésző telepítése
