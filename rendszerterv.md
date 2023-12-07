@@ -108,9 +108,16 @@ Az üzemeltetéshez szükséges eszközök és rendszerek, amelyek segítik a we
 
 ## Tesztterv
 
-Tesztelési eljárások
-Unit teszt:
+### Tesztelési eljárások
+#### Unit teszt:
 A fejlesztés során fontos, hogy minél korábban kezdjünk el tesztelni annyira, amennyire csak lehetséges. Ennek érdekében minden egyes metódushoz egységteszteket kell írnunk annak érdekében, hogy biztosítsuk megfelelő működésüket. Az egységtesztek segítenek abban, hogy minél több kódot ellenőrizzünk és lefedjünk, ezzel növelve a kód megbízhatóságát. A metódusok akkor tekinthetők készen állónak, amikor az őket tesztelő tesztesetek hibamentesen lefutnak, így biztosítva a funkcionalitás stabilitását.
+
+#### Alfa teszt:
+  A fő célja a tesztelésnek az, hogy ellenőrizzük a meglévő funkciók működését különböző böngészőkben és Android eszközökön. A fejlesztők végzik el ezt a tesztet. A teszt akkor tekinthető sikeresnek, ha a különböző funkciók megfelelően működnek a különböző böngészőkben és Android eszközökön is. Az ellenőrzés időtartama egy hét lesz.
+
+#### Béta teszt:
+Ezt a tesztet nem a fejlesztők végzik el.
+Tesztelendő böngészők: Opera, Firefox, Google Chrome, Safari
 
 ## Telepítési terv
 
