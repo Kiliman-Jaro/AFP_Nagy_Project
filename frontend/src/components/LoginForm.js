@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
+
 const LoginForm = () => {
     const [username, setUsername] = useState("");
     const [password, setPassword] = useState("");
@@ -26,7 +27,9 @@ const LoginForm = () => {
             }
         });
     };
-
+    function register() {
+        navigate("/register")
+      } 
     return (
         <div className="login-form">
             <input
@@ -42,6 +45,7 @@ const LoginForm = () => {
                 onChange={(e) => setPassword(e.target.value)}
             />
             <button onClick={handleLogin}>Bejelentkezés</button>
+            <button onClick={register}>Regisztráció</button>
         </div>
     );
 };
