@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import'./index.css';
 import RegisterForm from './components/RegisterForm.js';
 import LoginForm from './components/LoginForm.js';
 import Home from './components/Home.js';
