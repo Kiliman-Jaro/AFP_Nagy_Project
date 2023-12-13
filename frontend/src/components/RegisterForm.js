@@ -10,7 +10,7 @@ const RegisterForm = () => {
     
     const handleRegister = () => {
         if(!username || !password || !email) {
-            alert("Minden mező kitöltése kötelező!");
+            alert("All fields must be filled in!");
             return;
         }
         axios.post("http://localhost:5000/register", {
@@ -22,7 +22,7 @@ const RegisterForm = () => {
                 navigate("/login");
             }
             else{
-                alert("Sikerestelen regisztráció");
+                alert("Registration failed!");
                 setUsername("");
                 setPassword("");
                 setEmail("");
@@ -31,11 +31,11 @@ const RegisterForm = () => {
     };
     return (
         <div>
-            <h1>Regisztráció</h1>
-            <input type="text" placeholder="Felhasználónév" value={username} onChange={e => setUsername(e.target.value)} />
-            <input type="password" placeholder="Jelszó" value={password} onChange={e => setPassword(e.target.value)} />
-            <input type="email" placeholder="E-mail cím" value={email} onChange={e => setEmail(e.target.value)} />
-            <button onClick={handleRegister}>Regisztráció</button>
+            <h1>Registration</h1>
+            <input type="text" placeholder="Username" value={username} onChange={e => setUsername(e.target.value)} />
+            <input type="password" placeholder="Password" value={password} onChange={e => setPassword(e.target.value)} />
+            <input type="email" placeholder="E-mail" value={email} onChange={e => setEmail(e.target.value)} />
+            <button onClick={handleRegister}>Registration</button>
         </div>
     );
 };
