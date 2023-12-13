@@ -7,10 +7,19 @@ const RegisterForm = () => {
     const [password, setPassword] = useState("");   
     const [email, setEmail] = useState("");
     const navigate = useNavigate();
-    
+    const validateEmail = (email) => {
+        // Regular expression for basic email validation
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        return emailRegex.test(email);
+      };
+
     const handleRegister = () => {
         if(!username || !password || !email) {
             alert("All fields must be filled in!");
+            return;
+        }
+        if(!validateEmail(email)) {
+            alert("Invalid email format!");
             return;
         }
         axios.post("http://localhost:5000/register", {

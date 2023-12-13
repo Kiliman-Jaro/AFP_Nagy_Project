@@ -1,6 +1,12 @@
 import express from "express";
 import db from "../db.js";
 
+const validateEmail = (email) => {
+  // Regular expression for basic email validation
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  return emailRegex.test(email);
+};
+
 const router = express.Router();
 
 router.post("/", (req, res) => {
@@ -8,6 +14,10 @@ router.post("/", (req, res) => {
 
   if (!username || !password || !email) {
     return res.status(400).json({ message: "Minden mezőt ki kell tölteni!" });
+  }
+
+  if (!validateEmail(email)) {
+    return res.status(400).json({ message: "Érvénytelen email formátum!" });
   }
 
   const query = "INSERT INTO felhasznalok (nev, jelszo, email) VALUES (?, ?, ?)";
