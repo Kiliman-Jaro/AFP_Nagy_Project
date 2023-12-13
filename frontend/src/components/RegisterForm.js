@@ -30,13 +30,13 @@ const RegisterForm = () => {
         });
     };
     return (
-        <div>
+        <div className="registration-form">
             <h1>Registration</h1>
             <input type="text" placeholder="Username" value={username} onChange={e => setUsername(e.target.value)} />
             <input type="password" placeholder="Password" value={password} onChange={e => setPassword(e.target.value)} />
             <input type="email" placeholder="E-mail" value={email} onChange={e => setEmail(e.target.value)} />
             <button onClick={handleRegister}>Registration</button>
-        </div>
+        </div> 
     );
 };
 export default RegisterForm;

@@ -32,6 +32,7 @@ const LoginForm = () => {
       } 
     return (
         <div className="login-form">
+            <h1>Login</h1>
             <input
                 type="text"
                 placeholder="Username"
