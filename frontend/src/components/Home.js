@@ -35,25 +35,25 @@ export default function Home() {
       name: "Pepperoni",
       ingredients: "Pepperoni, tomato sauce, mozzarella",
       price: 14.99,
-      image: "pizza1.jpg"
+      image: "pepperoni-pizza.jpg"
     },
     {
-      name: "asd",
-      ingredients: "Tomato, mozzarella, basil",
-      price: 12.99,
-      image: "pizza1.jpg"
+      name: "Veggie",
+      ingredients: "Tomato, peppers , mushrooms, eggplant, onions ",
+      price: 16.99,
+      image: "veggie.pizza.jpg"
     },
     {
-      name: "asd2",
-      ingredients: "Tomato, mozzarella, basil",
-      price: 12.99,
-      image: "pizza1.jpg"
+      name: "Hawaiian",
+      ingredients: "Tomato, mozzarella, pineapple, ham",
+      price: 13.99,
+      image: "Hawaiian-pizza.jpg"
     },
     {
-      name: "asd3",
-      ingredients: "Tomato, mozzarella, basil",
-      price: 12.99,
-      image: "pizza1.jpg"
+      name: "Buffalo ",
+      ingredients: "Tomato, mozzarella, buffalo sauce, spicy",
+      price: 15.99,
+      image: "Pizza-Buffalo.jpg"
     }
    ])
   }, [])
