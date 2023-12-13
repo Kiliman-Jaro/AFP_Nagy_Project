@@ -10,7 +10,7 @@ const LoginForm = () => {
 
     const handleLogin = async (e) => {
         if(!username || !password){
-            alert("Minden mezőt ki kell tölteni!");
+            alert("All fields must be filled in!");
             return;
         }
         axios.post("http://localhost:5000/login", {
@@ -21,7 +21,7 @@ const LoginForm = () => {
                 navigate("/home");
             }
             else{
-                alert("Sikertelen bejelentkezés!");
+                alert("Login failed!");
                 setUsername("");
                 setPassword("");
             }
@@ -34,18 +34,18 @@ const LoginForm = () => {
         <div className="login-form">
             <input
                 type="text"
-                placeholder="Felhasználónév"
+                placeholder="Username"
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
             />
             <input
                 type="password"
-                placeholder="Jelszó"
+                placeholder="Password"
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
             />
-            <button onClick={handleLogin}>Bejelentkezés</button>
-            <button onClick={register}>Regisztráció</button>
+            <button onClick={handleLogin}>Login</button>
+            <button onClick={register}>Sign up</button>
         </div>
     );
 };
