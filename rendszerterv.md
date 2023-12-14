@@ -104,10 +104,6 @@ Az új funkciók és frissítések fejlesztéséhez szükséges fejlesztői kör
 Az üzemeltetéshez szükséges eszközök és rendszerek, amelyek segítik a weboldal folyamatos működését és karbantartását.
 Ügyfélszolgálati és támogató rendszerek:Az ügyfélszolgálati tevékenységek támogatása érdekében szükség lehet call center-re vagy online üzenetküldő platformokra, ahol az ügyfelek kérdéseire és problémáira válaszolnak.Fontos része a fizikai környezetnek a rendszeres adatmentés és visszaállítás lehetősége, ami biztosítja az adatvesztés minimalizálását és az üzemképesség fenntartását esetleges katasztrófák vagy hibák esetén.Ezek az elemek alkotják az ételrendelős weboldalunk fizikai környezetét, amelyek az online platform működését és biztonságát biztosítják a felhasználók számára. Fontos, hogy ezek a rendszerek megfeleljenek az adatvédelmi és biztonsági előírásoknak annak érdekében, hogy a felhasználók adatai védettek legyenek és a weboldal zavartalanul működjön.
 
-## Adatbázis terv
-
-![My Image](adat.png)
-
 ## Tesztterv
 
 ### Tesztelési eljárások
