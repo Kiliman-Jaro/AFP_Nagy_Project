@@ -128,6 +128,10 @@ kapcsolódnak rá a kliensek.
 
 A webes felület főként HTML, CSS és JavaScript nyelven épül fel, és az ezekhez tartozó kódrészleteket külön fájlokba szervezzük. Ezt azért tesszük, hogy jobban átlátható legyen a struktúra, könnyebben lehessen módosítani és könnyebben bővíthető legyen. Emellett a felület képes lesz kommunikálni a backend részen futó REST szolgáltatásokkal, így lehetőség lesz adatok felvitelére és lekérésére az adatbázisból. A felhasználói élményt tovább fokozzuk azzal, hogy az eltelt időt a kliens oldalon számoljuk a feladatoknál, így minimalizálva az esetleges időeltéréseket.
 
+## Adatbázis terv
+
+![My Image](adat.png)
+
 ## Karbantartási terv
 
 Az alkalmazás folyamatos működtetése és karbantartása kiemelten fontos, magában foglalva a programhibák javítását, belső igények változásából adódó módosításokat, valamint az környezeti feltételek változásából fakadó program- és állománymódosításokat. Fontos ellenőrizni, hogy az alkalmazás kompatibilis-e a későbbi frissített webes verziókkal. Emellett az idő előrehaladtával új kategóriákat kell hozzáadnunk az alkalmazáshoz, hogy fenntartsuk az érdeklődést és frissességet.
